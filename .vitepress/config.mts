@@ -29,6 +29,9 @@ export default defineConfig({
           },
           {
             text: 'MongoDb with DotNet', link: '/code/mongodb'
+          },
+          {
+            text: 'Docker Compose', link: '/code/docker-compose'
           }
         ]
       }
