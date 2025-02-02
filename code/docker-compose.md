@@ -3,6 +3,8 @@
 
 ## Postgres with Adminer
 
+Create a directory called `db` in the same directory as this file with any database initialization scripts you want run when the container first is initialized.
+
 ```yaml
 services:
 
