@@ -6,6 +6,9 @@ export default defineConfig({
   description: "Hypertheory Training",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    search: {
+      provider: 'local'
+    },
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Resources', link: '/links'},
