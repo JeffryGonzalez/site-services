@@ -32,7 +32,17 @@ export default defineConfig({
           },
           {
             text: 'Docker Compose', link: '/code/docker-compose'
-          }
+          },
+          { text: 'Postgres Container Prep', link: '/code/postgres-container'},
+          { text: 'Sql Server Container Prep', link: '/code/sqlserver-container'}
+        ]
+      },
+      {
+        text: 'Dev Testing', items: [
+          { text: 'Overview', link: '/testing/'},
+          { text: 'Environments', link: '/testing/environments'},
+          { text: 'Types of Tests', link: '/testing/types'},
+          { text: 'XUnit Fixtures', link: '/testing/xunit-fixtures'}
         ]
       }
     ],
