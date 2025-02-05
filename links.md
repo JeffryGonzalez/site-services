@@ -13,3 +13,8 @@
 - [RFC 2616 - HTTP/1.1](https://datatracker.ietf.org/doc/html/rfc2616)
 - [RFC 9110 - HTTP Semantics](https://www.rfc-editor.org/rfc/rfc9110.html)
 - [RFC 9457 Problem Details](https://www.rfc-editor.org/rfc/rfc9457.html)
+
+# Architecture
+
+- [A Frame Architecture - James Shore](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks#a-frame-arch)
+- [Imperative Shell Functional Core - Gary Bernhard](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell)
