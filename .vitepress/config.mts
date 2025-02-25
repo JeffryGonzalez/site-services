@@ -13,6 +13,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Resources', link: '/links'},
       { text: 'Web Api 100', link: '/WebApi100' },
+      { text: 'Web Api 200', link: '/WebApi200'},
       { text: 'Code Samples', 
         items: [
         {
