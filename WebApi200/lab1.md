@@ -226,3 +226,5 @@ The instructor believes in you. You can do it!
 But if you need help:
 
 Here is a video of me doing it and talking through it some:
+
+[Video on Vimeo](https://vimeo.com/1060480748)
