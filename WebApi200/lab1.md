@@ -114,7 +114,7 @@ Change the port you were randomly assigned (on line 8 in my code above) to 1338.
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": false,
-      "applicationUrl": "http://localhost:1338", // [!code focus]
+      "applicationUrl": "http://localhost:1339", // [!code focus]
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
